@@ -17,7 +17,7 @@
 
     <properties>
         <java.version>11</java.version>
-        <hibernate-validator.version>6.0.13.Final</hibernate-validator.version>
+        <hibernate-validator.version>6.0.20.Final</hibernate-validator.version>
         <rxjava-reactive-streams.version>1.2.1</rxjava-reactive-streams.version>
     </properties>
 
